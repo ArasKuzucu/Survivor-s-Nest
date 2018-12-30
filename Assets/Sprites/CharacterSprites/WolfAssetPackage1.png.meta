@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: 5a5cddc378e0f5144966fd21d56ad326
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WolfAssetPackage1_0
+    21300002: WolfAssetPackage1_1
+    21300004: WolfAssetPackage1_2
+    21300006: WolfAssetPackage1_3
+    21300008: WolfAssetPackage1_4
+    21300010: WolfAssetPackage1_5
+    21300012: WolfAssetPackage1_6
+    21300014: WolfAssetPackage1_7
+    21300016: WolfAssetPackage1_8
+    21300018: WolfAssetPackage1_9
+    21300020: WolfAssetPackage1_10
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WolfAssetPackage1_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 328
+        width: 137
+        height: 181
+      alignment: 9
+      pivot: {x: 0.9749907, y: 0.9296742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5365ed1a1de95a40bf4ba6486d3f625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfAssetPackage1_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 507
+        width: 147
+        height: 155
+      alignment: 9
+      pivot: {x: 0.24087088, y: 0.20987274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6ef8aac16a4684199899c759c2c065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfAssetPackage1_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 328
+        width: 295
+        height: 162
+      alignment: 9
+      pivot: {x: 0.052349854, y: 0.45450565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11285a4435494e04c9656b66c6e5fdb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfAssetPackage1_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 186
+        width: 106
+        height: 127
+      alignment: 9
+      pivot: {x: 0.7395719, y: 0.8665892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc650399b72dbb047b697cd6dabb6ed4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfAssetPackage1_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 185
+        width: 104
+        height: 124
+      alignment: 9
+      pivot: {x: 0.67296, y: 0.9309237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ab770b466bab4408da61503d439f3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfAssetPackage1_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 207
+        width: 66
+        height: 81
+      alignment: 9
+      pivot: {x: 0.41983956, y: 0.911487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda2205ea22dbd546b1f3ec374eb5045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfAssetPackage1_6
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 207
+        width: 72
+        height: 90
+      alignment: 9
+      pivot: {x: 0.38243145, y: 0.89973044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a265a238693f14847a268c4a5976111a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfAssetPackage1_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 41
+        width: 85
+        height: 126
+      alignment: 9
+      pivot: {x: 0.87967455, y: 0.8988907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4d6e5113555ed4b8cf2ee9188ff931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfAssetPackage1_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 40
+        width: 74
+        height: 131
+      alignment: 9
+      pivot: {x: 0.82887167, y: 0.92405176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64acda6da23c4541912ca2f018b9d01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfAssetPackage1_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 40
+        width: 67
+        height: 131
+      alignment: 9
+      pivot: {x: 0.29469457, y: 0.9321289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b47d6879fcd8a45a0a9594c12a98bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfAssetPackage1_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 42
+        width: 72
+        height: 142
+      alignment: 9
+      pivot: {x: 0.2869076, y: 0.93218577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621e288b6bab04a4b8cea984bbd51f6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 02301ec856e69db41854c61e0673b9f5
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

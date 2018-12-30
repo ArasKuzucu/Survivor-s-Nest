@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Zemin
+  - Torch
+  - Target
+  - Environment
+  - Direction
+  - FirePoint
+  - RifleFirePoint
+  - RifleDirectionPoint
+  - Barricade
+  - Deneme
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Torch
+  - Dirt
+  - Wall
+  - Enemy
+  - Barricade
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 4167592255
+    locked: 0
+  - name: PlantGround
+    uniqueID: 3993915089
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3039124785
+    locked: 0
+  - name: ForeGround
+    uniqueID: 3688152307
+    locked: 0
