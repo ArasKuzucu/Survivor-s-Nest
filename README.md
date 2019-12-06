@@ -6,3 +6,4 @@ Also using the torch lights to breaks some kind of enemies armor.(Zombies)
 
 Using technologies: Unity Game engine, C#, TextMesh Pro
 
+Gameplay video: https://youtu.be/BUQHhOzojpo
