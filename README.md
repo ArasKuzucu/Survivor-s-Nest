@@ -4,5 +4,5 @@ Survivor's Nest is a Tower defence mobile game. Main purpose of the game is clea
 
 Also using the torch lights to breaks some kind of enemies armor.(Zombies)
 
-Using technologies: Unity Game engine, C#,  
+Using technologies: Unity Game engine, C#, TextMesh Pro
 
